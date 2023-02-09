@@ -1,0 +1,18 @@
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\ZaHrA\Desktop\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\تمرین های c#\c#-Notepad\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
